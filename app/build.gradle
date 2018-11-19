@@ -27,5 +27,7 @@ dependencies {
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.1'
 //    implementation project(':third_party_login')
 //    使用dependencies 
-    implementation 'com.lbz.login:third_party_login:1.0.2'
+    implementation 'com.lbz.login:third_party_login:1.1.1'
+    implementation 'com.tencent.mm.opensdk:wechat-sdk-android-without-mta:5.1.4'
+    implementation  'com.sina.weibo.sdk:core:4.3.4:openDefaultRelease@aar'
 }
