@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ThirdPartyLogin</string>
+    <string name="uninstall_wx">未安装微信</string>
+    <string name="uninstall_wb">未安装微博</string>
+    <string name="uninstall_qq">未安装QQ</string>
+    <string name="qq_appid_is_empty">QQ appid 为空</string>
+    <string name="wx_appid_or_secretId_is_empty">微信appId或者secretId为空</string>
+    <string name="wb_appid_or_redirectUrl_is_empty">微博appId或者redirectUrl为空</string>
+
+</resources>
