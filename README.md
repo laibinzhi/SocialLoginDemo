@@ -38,7 +38,7 @@ allprojects {
 
 
 ```
- implementation 'com.lbz.login:third_party_login:1.1.2'
+ implementation 'com.lbz.login:third_party_login:1.1.3'
 ```
 
 rebuild一下就ok了
