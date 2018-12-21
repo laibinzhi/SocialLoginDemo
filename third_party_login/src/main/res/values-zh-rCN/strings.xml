@@ -1,0 +1,8 @@
+<resources>
+    <string name="uninstall_wx">请先安装微信客户端，或选择其他登录方式</string>
+    <string name="uninstall_wb">请先安装微博客户端，或选择其他登录方式</string>
+    <string name="uninstall_qq">请先安装QQ客户端，或选择其他登录方式</string>
+    <string name="qq_appid_is_empty">QQ appid 为空</string>
+    <string name="wx_appid_or_secretId_is_empty">微信appId或者secretId为空</string>
+    <string name="wb_appid_or_redirectUrl_is_empty">微博appId或者redirectUrl为空</string>
+</resources>
