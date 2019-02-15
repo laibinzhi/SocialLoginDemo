@@ -229,5 +229,5 @@ AuthManager.getInstance().loginQQ(this, mSocialLoginCallback);
 
 
 # ÏîÄ¿½ØÍ¼
-![image](http://pd4brty72.bkt.clouddn.com/gif5%E6%96%B0%E6%96%87%E4%BB%B6%20%286%29.gif)
+![image](http://lbz-blog.test.upcdn.net/post/gif5%E6%96%B0%E6%96%87%E4%BB%B6%20%286%29.gif)
 
