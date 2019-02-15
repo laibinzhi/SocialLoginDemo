@@ -229,5 +229,5 @@ AuthManager.getInstance().loginQQ(this, mSocialLoginCallback);
 
 
 # 项目截图
-![image](http://lbz-blog.test.upcdn.net/post/gif5%E6%96%B0%E6%96%87%E4%BB%B6%20%286%29.gif)
+![image](http://lbz-blog.test.upcdn.net/post/gif5新文件.gif)
 
